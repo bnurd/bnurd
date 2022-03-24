@@ -12,7 +12,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on indie mobile projects
+<!-- 🔭 I’m currently working on indie mobile projects -->
 - 🌱 I’m currently learning python
 
 - Backend
