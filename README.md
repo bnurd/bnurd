@@ -17,7 +17,8 @@
 <!--- 🔭 I’m currently working on indie mobile projects 
  🌱 I’m currently learning python --->
 
- - [Vigenere Cipher](https://github.com/teavun/vigenere-cipher) : It is a C++ console application that encrypts a text received from the user in accordance with the matrix created with the vigenere algorithm.
+ - [Vigenere Cipher](https://github.com/teavun/vigenere-cipher) : It is a **C++** console application that encrypts a text received from the user in accordance with the matrix created with the vigenere algorithm.
+ - [Video Compress and Upload App](https://github.com/teavun/ffmpeg-youtube-api) : It has been developed with **PHP**. It processes the video using the ffmpeg library and uploads the video to the youtube channel of the user using the Youtube API. Before the video is uploaded, the size and duration can be checked and the uploaded videos can be viewed as a list on the interface.
     
 - Backend
   - .net core
@@ -28,7 +29,7 @@
 
   - php
     - [Real Estate Web App](https://github.com/teavun/capacityhome)
-    - [Video Compress and Upload App](https://github.com/teavun/ffmpeg-youtube-api)
+    - 
     - [Address App](https://github.com/teavun/address)
  
 - Frontend
