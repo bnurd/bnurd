@@ -18,8 +18,8 @@ Entity Framework, Linq, Hangfire, Autofac, Automapper
 <!--- 🔭 I’m currently working on indie mobile projects 
  🌱 I’m currently learning python --->
 
- - [Vigenere Cipher](https://github.com/teavun/vigenere-cipher) : It is a **C++** console application that encrypts a text received from the user in accordance with the matrix created with the vigenere algorithm.
- - [Video Compress and Upload App](https://github.com/teavun/ffmpeg-youtube-api) : It has been developed with **PHP**. It processes the video using the ffmpeg library and uploads the video to the youtube channel of the user using the Youtube API. Before the video is uploaded, the size and duration can be checked and the uploaded videos can be viewed as a list on the interface.
+ - [Vigenere Cipher](https://github.com/teavun/vigenere-cipher) :  **C++** It is a console application that encrypts a text received from the user in accordance with the matrix created with the vigenere algorithm.
+ - [Video Compress and Upload App](https://github.com/teavun/ffmpeg-youtube-api) : **PHP** It processes the video using the ffmpeg library and uploads the video to the youtube channel of the user using the Youtube API. Before the video is uploaded, the size and duration can be checked and the uploaded videos can be viewed as a list on the interface.
  - [Dict](https://github.com/bnurd/dict) : **(Flutter)** It is a basic mobile application on repetition and memorization of certain words. 
  - [Real Estate Web App](https://github.com/teavun/capacityhome) : **(PHP)** In this project we prepared a database and took the institution's own inventories by extracting html from the previously used system and developed a real estate publishing system by allowing it to upload new inventories.
  - [Mors Timeline](https://github.com/bnurd/nodejsmorstimeline) : **(NodeJS)** It is a small project that uses Socket to share posts with morse code.
