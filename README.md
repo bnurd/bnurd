@@ -35,6 +35,7 @@
 - Frontend
   - [Fancy Paperc Style](https://github.com/teavun/fancy_papers)
   - [Multiple Image Select Script and Style](https://github.com/teavun/multiple-image-upload)
+    - Developed with Javascript. It is a useful script on the frontend of the multi-image upload function, which is a need in web projects.It displays the pictures selected from the device on the screen without saving them yet, allows deleting and adding new pictures, and also responds to the needs such as showing the percentage of operation during the saving process of the selected pictures.
 
 - Mobile / Flutter
   - [xox game](https://github.com/teavun/xox)
