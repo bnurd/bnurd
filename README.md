@@ -22,9 +22,10 @@ Entity Framework, Linq, Hangfire, Autofac, Automapper
  - [Video Compress and Upload App](https://github.com/teavun/ffmpeg-youtube-api) : It has been developed with **PHP**. It processes the video using the ffmpeg library and uploads the video to the youtube channel of the user using the Youtube API. Before the video is uploaded, the size and duration can be checked and the uploaded videos can be viewed as a list on the interface.
  - [Dict](https://github.com/bnurd/dict) : **(Flutter)** It is a basic mobile application on repetition and memorization of certain words. 
  - [Real Estate Web App](https://github.com/teavun/capacityhome) : **(PHP)** In this project we prepared a database and took the institution's own inventories by extracting html from the previously used system and developed a real estate publishing system by allowing it to upload new inventories.
-    
-    
-
+ - [Mors Timeline](https://github.com/bnurd/nodejsmorstimeline) : **(NodeJS)** It is a small project that uses Socket to share posts with morse code.
+ - [Multiple Image Select Script and Style](https://github.com/teavun/multiple-image-upload) : **(Javascript)** It is a useful script on the frontend of the multi-image upload function, which is a need in web projects.It displays the pictures selected from the device on the screen without saving them yet, allows deleting and adding new pictures, and also responds to the needs such as showing the percentage of operation during the saving process of the selected pictures.
+ - [Fancy Paperc Style](https://github.com/teavun/fancy_papers) : **(CSS)** It is a project where different page patterns are coded with css.
+ - [xox game](https://github.com/teavun/xox) : **(Flutter)** : it provides play XOX game on same device
     
 - Backend
   - .net core
@@ -36,12 +37,3 @@ Entity Framework, Linq, Hangfire, Autofac, Automapper
   - php
     - [Address App](https://github.com/teavun/address)
  
-- Frontend
-  - [Fancy Paperc Style](https://github.com/teavun/fancy_papers)
-  - [Multiple Image Select Script and Style](https://github.com/teavun/multiple-image-upload)
-    - Developed with Javascript. It is a useful script on the frontend of the multi-image upload function, which is a need in web projects.It displays the pictures selected from the device on the screen without saving them yet, allows deleting and adding new pictures, and also responds to the needs such as showing the percentage of operation during the saving process of the selected pictures.
-
-- Mobile / Flutter
-  - [xox game](https://github.com/teavun/xox)
-  - [memorizing english words](https://github.com/teavun/dict)
-
