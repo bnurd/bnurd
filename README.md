@@ -10,6 +10,9 @@
 - ⚡ Fun fact: ...
 -->
 
+### My Apps
+[Prayer Times Mobile App](https://play.google.com/store/apps/details?id=com.tesadumuefkar.pray_app)
+
 ### My Hobby Projects
 <!--- 🔭 I’m currently working on indie mobile projects 
  🌱 I’m currently learning python --->
