@@ -17,8 +17,7 @@
 <!--- 🔭 I’m currently working on indie mobile projects 
  🌱 I’m currently learning python --->
 
- - [Vigenere Cipher](https://github.com/teavun/vigenere-cipher)
-    - It is a C++ console application that encrypts a text received from the user in accordance with the matrix created with the vigenere algorithm.
+ - [Vigenere Cipher](https://github.com/teavun/vigenere-cipher) : It is a C++ console application that encrypts a text received from the user in accordance with the matrix created with the vigenere algorithm.
     
 - Backend
   - .net core
