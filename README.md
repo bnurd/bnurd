@@ -17,6 +17,9 @@
 <!--- 🔭 I’m currently working on indie mobile projects 
  🌱 I’m currently learning python --->
 
+ - [Vigenere Cipher](https://github.com/teavun/vigenere-cipher)
+    - It was developed with C++. It is a console application that encrypts a text received from the user in accordance with the matrix created with the vigenere algorithm.
+    
 - Backend
   - .net core
     - [Jwt Auth](https://github.com/teavun/dotnet-webapi-jwt-auth)
@@ -28,9 +31,6 @@
     - [Real Estate Web App](https://github.com/teavun/capacityhome)
     - [Video Compress and Upload App](https://github.com/teavun/ffmpeg-youtube-api)
     - [Address App](https://github.com/teavun/address)
-
-- Cyrption c++
-  - [Vigenere Cipher](https://github.com/teavun/vigenere-cipher)
  
 - Frontend
   - [Fancy Paperc Style](https://github.com/teavun/fancy_papers)
