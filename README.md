@@ -11,6 +11,8 @@ Entity Framework, Linq, Hangfire, Autofac, Automapper
 - ⚡ Fun fact: ...
 -->
 
+https://www.hackerrank.com/bnurdincer
+
 ### My Apps
 [Prayer Times Mobile App](https://play.google.com/store/apps/details?id=com.tesadumuefkar.pray_app)
 
