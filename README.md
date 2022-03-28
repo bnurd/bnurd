@@ -18,7 +18,7 @@
  🌱 I’m currently learning python --->
 
  - [Vigenere Cipher](https://github.com/teavun/vigenere-cipher)
-    - It was developed with C++. It is a console application that encrypts a text received from the user in accordance with the matrix created with the vigenere algorithm.
+    - It is a C++ console application that encrypts a text received from the user in accordance with the matrix created with the vigenere algorithm.
     
 - Backend
   - .net core
