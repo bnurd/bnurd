@@ -11,9 +11,6 @@ Entity Framework, Linq, Hangfire, Autofac, Automapper
 - ⚡ Fun fact: ...
 -->
 
-### My Apps
-[Prayer Times Mobile App](https://play.google.com/store/apps/details?id=com.tesadumuefkar.pray_app)
-
 ### My Hobby Projects
 <!--- 🔭 I’m currently working on indie mobile projects 
  🌱 I’m currently learning python --->
@@ -33,6 +30,10 @@ Entity Framework, Linq, Hangfire, Autofac, Automapper
  - [Address App](https://github.com/bnurd/address) : **(PHP)** : provide address api in Turkey
   
  
+### My Apps
+[Prayer Times Mobile App](https://play.google.com/store/apps/details?id=com.tesadumuefkar.pray_app)
+
+### Links
  ### [hackerrank](https://www.hackerrank.com/bnurdincer) 
   
  
